@@ -1,0 +1,13 @@
+{
+  "name": "trunksoftware/monolog-custom-line-formatter",
+  "autoload":{
+	"psr-4": {
+	  "TrunkSoftware\\Monolog\\CustomLineFormatter\\": [
+		"/src/"
+	  ]
+	}
+  },
+  "require":{
+	"monolog/monolog": "1.*"
+  }
+}
