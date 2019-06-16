@@ -1,8 +1,8 @@
 {
-  "name": "trunksoftware/monolog-custom-line-formatter",
+  "name": "trunk/monolog-lineformatter",
   "autoload":{
 	"psr-4": {
-	  "TrunkSoftware\\Monolog\\CustomLineFormatter\\": [
+	  "Trunk\\Monolog\\CustomLineFormatter\\": [
 		"/src/"
 	  ]
 	}

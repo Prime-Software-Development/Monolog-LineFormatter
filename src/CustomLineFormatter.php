@@ -1,5 +1,5 @@
 <?php
-namespace TrunkSoftware\Monolog\CustomLineFormatter;
+namespace Trunk\Monolog\CustomLineFormatter;
 
 use Monolog\Formatter\LineFormatter;
 use Monolog\Logger;
