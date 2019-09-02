@@ -1,5 +1,14 @@
 {
-  "name": "trunk/monolog-lineformatter",
+  "name": "primesoftwaredevelopment/monolog-lineformatter",
+  "type": "library",
+  "description": "Prime Software Development library for formatting MonoLog lines",
+  "homepage": "http://www.primesoftwaredevelopment.co.uk/",
+  "authors": [
+	{
+	  "name": "Chris Weller",
+	  "email": "chris@primesoftwaredevelopment.co.uk"
+	}
+  ],
   "autoload":{
 	"psr-4": {
 	  "Trunk\\Monolog\\CustomLineFormatter\\": [
